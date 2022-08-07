@@ -1,0 +1,12 @@
+  id   name age
+1  1  James  42
+2  2    Amy  18
+3  3 shilpi  26
+[1] "James"  "Amy"    "shilpi"
+[1] "James"  "Amy"    "shilpi"
+[1] "James"  "Amy"    "shilpi"
+    name
+1  James
+2    Amy
+3 shilpi
+[1] 18
