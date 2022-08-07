@@ -1,0 +1,16 @@
+Test Case 1
+
+Input
+1-2-3
+Your Output
+$name
+[1] "James"
+
+$age
+[1] 42
+
+$country
+[1] "USA"
+
+$id
+[1] "1-2-3"
