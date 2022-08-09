@@ -1,0 +1,17 @@
+Test Case 1
+
+Input
+50
+Your Output
+[1] 8
+Expected Output
+[1] 8
+----------------------
+Test Case 2
+
+Input
+75
+Your Output
+[1] 4
+Expected Output
+[1] 4
