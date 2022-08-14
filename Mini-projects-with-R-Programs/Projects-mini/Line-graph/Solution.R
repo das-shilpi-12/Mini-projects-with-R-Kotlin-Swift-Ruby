@@ -1,0 +1,7 @@
+a <- c(3, 2, 8, 9)
+b <- c(7, 5)
+c <- c(4, 8, 2, 10)
+png(file="shilpi.png")
+plot(a, type = "l")
+lines(b, type="l")
+lines(c, type="l")
